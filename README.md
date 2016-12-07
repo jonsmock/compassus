@@ -496,6 +496,7 @@ There are also some devcards examples [here](https://compassus.github.io/compass
 
 - [CircleCI](https://circleci.com/), source [here](https://github.com/circleci/frontend)
 - [Funding Circle](https://www.fundingcircle.com/)
+- [Healthcare Financial Resources, Inc](http://hfri.net/)
 
 ## Copyright & License
 
